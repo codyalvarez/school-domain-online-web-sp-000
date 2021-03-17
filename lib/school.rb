@@ -1,6 +1,6 @@
 class School
+  attr_accessor :
 
-  ROSTER = []
   def initialize(name)
     @name = name
 
