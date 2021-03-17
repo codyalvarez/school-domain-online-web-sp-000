@@ -1,6 +1,6 @@
 class School
 
   def initialize
-    
+
   end
-end 
+end
